@@ -40,12 +40,12 @@ blog-images/
 ## Image URL Pattern
 
 ```
-https://cdn.jsdelivr.net/gh/dromix/blog-images@main/tryhackme/2025/12-dreaming/01-nmap-scan.png
+https://cdn.jsdelivr.net/gh/grok-rs/blog-images@main/tryhackme/2025/12-dreaming/01-nmap-scan.png
 ```
 
 ## Usage in Posts
 
 ```markdown
-![Nmap Scan](https://cdn.jsdelivr.net/gh/dromix/blog-images@main/tryhackme/2025/12-dreaming/01-nmap-scan.png)
+![Nmap Scan](https://cdn.jsdelivr.net/gh/grok-rs/blog-images@main/tryhackme/2025/12-dreaming/01-nmap-scan.png)
 _Nmap scan results showing open ports_
 ```
